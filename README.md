@@ -6,7 +6,7 @@ GET /api/movies?genre=Sci-Fi
 
 POST /api/movies
 
-DELETE /api/movies/:id
+DELETE /api/movies/id
 
 ![Страничка](./screenshots/photo_2025-12-10_16-49-13.jpg)
 
